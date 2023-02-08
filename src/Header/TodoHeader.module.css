@@ -1,0 +1,10 @@
+.headerTitle {
+  display: flex;
+  align-items: baseline;
+}
+
+.todoCount {
+  color: #32cd32;
+  background-color: inherit;
+  font-size: 50px;
+}
